@@ -55,7 +55,7 @@
         <!--</table>-->
 
         <!-- 配置需要生成的表，% 代表所有 -->
-        <table catalog="login" tableName="%">
+        <table catalog="forum" tableName="%">
             <!-- mysql 配置 -->
             <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
